@@ -1,0 +1,16 @@
+.models button {
+	font-size: 17px;
+	width: 55%;
+	padding: 10px 0;
+	border: none;
+	outline: none;
+	background-color: #444;
+	color: #fff;
+	cursor: pointer;
+	text-align: center;
+	display: block;
+}
+
+.models button:hover {
+	background-color: #555;
+}
